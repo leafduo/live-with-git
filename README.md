@@ -62,13 +62,28 @@ Git is a distributed file system which is often used as DVCS.
 
 ![git-blame-xcode-integration](assets/git-blame-xcode-integration.png)
 
-## Rewriting history
+## Rewriting History
 
 - git rebase
 - git rebase -i
 - git commit --amend
 - git revert
 - git cherry-pick
+- git filter-branch
+
+## Revision Selection
+
+- 734713bc047d87bf7eac9674765ae793478c50d3
+- HEAD@{0}
+- master@{yesterday}
+- HEAD^
+- HEAD^^
+- HEAD^2
+- HEAD~
+- HEAD~2
+- master..experiment
+- master...experiment
+
 
 ## I have an upstream project!
 
@@ -106,6 +121,11 @@ Git is a distributed file system which is often used as DVCS.
 - alias gs=git status
 - alias gl=git log
 
+## Clean up
+
+- git clean
+- git clean -fd
+
 ## Working with Gerrit
 
 - git-review
@@ -116,8 +136,11 @@ Git is a distributed file system which is often used as DVCS.
 - commit
 - tree
 - tag
+- refs
 - branch
 - remote
+- index
+- HEAD
 
 ## Reference
 
