@@ -25,7 +25,7 @@ Git is a distributed file system which is often used as DVCS.
 
 ## Moving files
 
-- git add, wiring directory -> staging area
+- git add, working directory -> staging area
 - git commit, staging area -> repo
 - git checkout, repo -> working directory
 - git reset
@@ -92,7 +92,6 @@ Git is a distributed file system which is often used as DVCS.
 - branch
 - remote
 - HEAD
-
 
 ## Don't Panic when Code is Missing
 
