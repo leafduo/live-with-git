@@ -15,6 +15,14 @@ Git is a distributed file system which is often used as DVCS.
 
 第一条出事了不慌，第二条避免挨骂。
 
+## Why Git?
+
+- Inner peace
+- Flexible
+- Fast
+- Popularity
+- GitHub
+
 ## 3 Sections
 
 ![3 sections in git project](assets/3 sections.png)
