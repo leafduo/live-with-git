@@ -6,7 +6,7 @@ Git is a free and open source distributed version control system designed to han
 
 NO.
 
-Git is a distributed file system which is often used as DVCS.
+Git is a filesystem which is often used as DVCS.
 
 ## TL; DR
 
